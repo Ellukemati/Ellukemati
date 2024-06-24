@@ -1,7 +1,7 @@
 <h1 align="center">Hola! Soy Matias</h1>
-<h3 align="center">Estudiante de Ingeniería en Informática y amante de la tecnología</h3>
+<h3 align="center">Estudiante de Ingeniería en Informática en FIUBA y amante de la tecnología</h3>
 
-- 🔭 Actualmente estoy trabajando en **mi carrera**
+- 🔭 Actualmente estoy trabajando en **mi carrera universitaria**
 
 - 📫 Contacto **dundic.matias@hotmail.com**
 
