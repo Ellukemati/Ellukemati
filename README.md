@@ -5,7 +5,7 @@
 
 - 📫 Contacto **dundic.matias@hotmail.com**
 
-- ⚡ Dato sobre mí: **Colecciono vinilos, consolas y juegos retro!**
+- ⚡ Dato sobre mí: **Colecciono vinilos, consolas y videojuegos retro!**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
