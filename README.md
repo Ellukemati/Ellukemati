@@ -1,7 +1,8 @@
 <h1 align="center">¡Hola! Soy Matias 👋</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/FIUBA-Ingeniería%20en%20Informática-blue?style=flat-square&logo=universityofbuenosaires&logoColor=white" alt="FIUBA">
-  <img src="https://img.shields.io/badge/Nivel-3er%20Año-green?style=flat-square" alt="Nivel">
+  <a href="https://www.fi.uba.ar/" target="_blank">
+    <img src="https://img.shields.io/badge/FIUBA-Ingeniería%20en%20Informática-blue?style=flat-square&logo=universityofbuenosaires&logoColor=white" alt="FIUBA">
+  </a>
 </p>
 
 <h3 align="center">Estudiante de Ingeniería en Informática en la Universidad de Buenos Aires y entusiasta de la tecnología</h3>
