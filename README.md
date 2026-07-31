@@ -43,16 +43,8 @@
 
 ---
 
-### 📊 Cómo trabajo
-
-- **Paradigmas:** Estructural, orientado a objetos y funcional.
-- **Calidad de código:** TDD y testing unitario.
-- **Diseño:** Patrones de diseño, SOLID y modelado UML.
-
----
-
-### 🌐 Conecta conmigo
+### 🌐 Conectá conmigo
 
 <p align="left">
-<a href="https://linkedin.com/in/matias-dundic-3531981b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matias dundic" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/matiasdundic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Matias Dundic" height="30" width="40" /></a>
 </p>
