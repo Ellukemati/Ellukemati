@@ -23,8 +23,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,go,rust,c,js,bash,assembly&theme=dark" />
   </a>
-  
-  <img src="https://img.shields.io/badge/Smalltalk-1a1a1a?style=flat-square&logo=smalltalk&logoColor=white" alt="Smalltalk" height="48" />
+  <img src="https://img.shields.io/badge/Smalltalk-3297D3?style=flat-square" alt="Smalltalk" height="48" />
 </p>
 
 **Desarrollo Web y Bases de Datos**
