@@ -1,4 +1,4 @@
-<h1 align="center">Matias Dundic</h1>
+<h1 align="center">Matias Ezequiel Dundic</h1>
 
 <p align="center">
   <a href="https://www.fi.uba.ar/" target="_blank">
