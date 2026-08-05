@@ -9,7 +9,7 @@
 <h3 align="center">Construyo cosas que funcionan y me encapricho para que estén bien hechas</h3>
 
 - 🔭 **Ahora mismo:** Cursando Ingeniería en Informática en la FIUBA.
-- 🛠️ **Lo mío:** Disfruto de llevar procesos manuales o desordenados a soluciones sólidas, automatizadas y optimizadas.
+- 🛠️ **A lo que me dedico:** Llevar procesos manuales o desordenados a soluciones sólidas, automatizadas y optimizadas.
 - ⚡ **Fuera del código:** Coleccionismo de vinilos, casettes y cds y consolas y videojuegos retro. 🎮 📻
 - 📫 **Contacto:** [dundic.matias@gmail.com](mailto:dundic.matias@gmail.com)
 
